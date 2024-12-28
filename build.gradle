@@ -80,7 +80,7 @@ javafx {
             'javafx.swing'
     ]
     version = '22'
-    platform = 'windows'
+    platform = 'linux'
     configurations = [ 'implementation', 'testImplementation' ]
 }
 
